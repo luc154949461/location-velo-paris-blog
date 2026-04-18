@@ -4,146 +4,122 @@
   <link href="https://location-velo-paris.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://location-velo-paris.com/" rel="alternate" type="text/html"/>
   <id>https://location-velo-paris.com/</id>
-  <updated>2026-04-12</updated>
+  <updated>2026-04-06</updated>
   <author>
     <name>Location Vélo Paris</name>
   </author>
   <subtitle>Louer un vélo à Paris et partir à l'aventure — balades entre amis, sorties en famille, itinéraires insolites. Le guide des cyclistes du week-end.</subtitle>
   <entry>
-    <title>Louer un vélo cargo à Paris : ce que ça change vraiment pour faire ses courses</title>
-    <link href="https://location-velo-paris.com/locations/louer-un-velo-cargo-a-paris-ce-que-ca-change-vraiment-pour-faire-ses-courses/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/locations/louer-un-velo-cargo-a-paris-ce-que-ca-change-vraiment-pour-faire-ses-courses/</id>
-    <published>2026-04-12</published>
-    <updated>2026-04-12</updated>
-    <summary>Le vélo cargo n'est plus réservé aux familles : il devient un outil du quotidien pour les courses à Paris. Samir K. explique les différences entre cargo longtail, biporteur et triporteur, où en louer un à Paris en 2025, et partage des conseils concrets de chargement et de conduite en ville.</summary>
-  </entry>
-  <entry>
-    <title>La coulée verte et le viaduc des Arts à vélo : de Bastille à Vincennes par les toits</title>
-    <link href="https://location-velo-paris.com/itineraires/la-coulee-verte-et-le-viaduc-des-arts-a-velo-de-bastille-a-vincennes-par-les-toits/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/itineraires/la-coulee-verte-et-le-viaduc-des-arts-a-velo-de-bastille-a-vincennes-par-les-toits/</id>
-    <published>2026-04-12</published>
-    <updated>2026-04-12</updated>
-    <summary>La Promenade Plantée — coulée verte sur l'ancienne voie ferrée de Vincennes — est l'un des secrets les mieux gardés de Paris Est. Julien M. guide les cyclistes de la Bastille jusqu'au bois de Vincennes en passant par les ateliers d'artisans du viaduc des Arts. Conseils pratiques sur les portions à pousser, la jonction avec le bois et le retour en RER.</summary>
-  </entry>
-  <entry>
-    <title>Paris à vélo entre amis le soir : 4 itinéraires pour une soirée qui commence sur deux roues</title>
-    <link href="https://location-velo-paris.com/entre-amis/paris-a-velo-entre-amis-le-soir-4-itineraires-pour-une-soiree-qui-commence-sur-deux-roues/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/entre-amis/paris-a-velo-entre-amis-le-soir-4-itineraires-pour-une-soiree-qui-commence-sur-deux-roues/</id>
-    <published>2026-04-12</published>
-    <updated>2026-04-12</updated>
-    <summary>Pas besoin de voiture ni de métro bondé pour commencer une soirée à Paris — le vélo, c'est une autre façon de s'approprier la ville. Julien M. propose 4 itinéraires soirée testés : Bastille-Oberkampf, Canal Saint-Martin, Pigalle-Montmartre et Châtelet-Saint-Germain. Avec tous les conseils sur la location, la sécurité nocturne et les meilleures haltes.</summary>
-  </entry>
-  <entry>
-    <title>Traverser le bois de Boulogne en famille : le circuit tranquille que personne ne connaît</title>
-    <link href="https://location-velo-paris.com/en-famille/traverser-le-bois-de-boulogne-en-famille-le-circuit-tranquille-que-personne-ne-connait/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/en-famille/traverser-le-bois-de-boulogne-en-famille-le-circuit-tranquille-que-personne-ne-connait/</id>
-    <published>2026-04-12</published>
-    <updated>2026-04-12</updated>
-    <summary>Le bois de Boulogne intimide souvent les familles, mais avec le bon circuit de 8 km, c'est l'une des meilleures sorties vélo de Paris avec des enfants. Lac inférieur, pelouses de pique-nique, Jardin d'acclimatation : voici le tracé complet avec tous les conseils pratiques pour une journée réussie dès 5 ans.</summary>
-  </entry>
-  <entry>
-    <title>Paris à vélo sous la pluie : le guide honnête pour ne pas rentrer trempé</title>
-    <link href="https://location-velo-paris.com/bons-plans/paris-a-velo-sous-la-pluie-le-guide-honnete-pour-ne-pas-rentrer-trempe/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/bons-plans/paris-a-velo-sous-la-pluie-le-guide-honnete-pour-ne-pas-rentrer-trempe/</id>
-    <published>2026-04-12</published>
-    <updated>2026-04-12</updated>
-    <summary>La pluie ne doit pas ruiner une sortie vélo à Paris — à condition de savoir s'équiper et de connaître les bons itinéraires. Henri D. partage son guide honnête : équipement minimum, passages couverts stratégiques et cafés où s'abriter quand l'averse arrive. Avec les bons réflexes, Paris sous la pluie a même un charme particulier.</summary>
-  </entry>
-  <entry>
-    <title>Le Petit Ceinture à vélo : l'ancienne voie ferrée qui traverse Paris sans bruit</title>
-    <link href="https://location-velo-paris.com/itineraires/le-petit-ceinture-a-velo-l-ancienne-voie-ferree-qui-traverse-paris-sans-bruit/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/itineraires/le-petit-ceinture-a-velo-l-ancienne-voie-ferree-qui-traverse-paris-sans-bruit/</id>
-    <published>2026-04-12</published>
-    <updated>2026-04-12</updated>
-    <summary>La Petite Ceinture est l'une des plus belles surprises à vélo à Paris : une ancienne voie ferrée du XIXe siècle, aujourd'hui végétalisée et partiellement ouverte au public. Entre rails envahis de mauvaises herbes, tunnels tagués et vues sur les toits, c'est un Paris secret que peu de gens connaissent. Guide complet des tronçons accessibles et conseils pratiques pour ne pas se perdre.</summary>
-  </entry>
-  <entry>
     <title>De Haussmann au Grand Paris : deux siècles de ville qui s'invente, depuis le guidon</title>
     <link href="https://location-velo-paris.com/balades/de-haussmann-au-grand-paris-deux-siecles-de-ville-qui-s-invente-depuis-le-guidon/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/balades/de-haussmann-au-grand-paris-deux-siecles-de-ville-qui-s-invente-depuis-le-guidon/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-04-06</published>
+    <updated>2026-04-06</updated>
     <summary>De l'Opéra à Vincennes en passant par Belleville, un itinéraire de 18 km pour lire deux siècles d'urbanisme parisien depuis le guidon. Haussmann, le périphérique, les rues médiévales qui ont résisté, et les nouvelles pistes cyclables du Grand Paris — la ville comme palimpseste.</summary>
+  </entry>
+  <entry>
+    <title>Louer un vélo cargo à Paris : ce que ça change vraiment pour faire ses courses</title>
+    <link href="https://location-velo-paris.com/locations/louer-un-velo-cargo-a-paris-ce-que-ca-change-vraiment-pour-faire-ses-courses/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/locations/louer-un-velo-cargo-a-paris-ce-que-ca-change-vraiment-pour-faire-ses-courses/</id>
+    <published>2026-03-31</published>
+    <updated>2026-03-31</updated>
+    <summary>Le vélo cargo n'est plus réservé aux familles : il devient un outil du quotidien pour les courses à Paris. Samir K. explique les différences entre cargo longtail, biporteur et triporteur, où en louer un à Paris en 2025, et partage des conseils concrets de chargement et de conduite en ville.</summary>
   </entry>
   <entry>
     <title>Le canal de l'Ourcq à vélo : à la lisière de Paris, là où la ville devient autre chose</title>
     <link href="https://location-velo-paris.com/balades/le-canal-de-l-ourcq-a-velo-a-la-lisiere-de-paris-la-ou-la-ville-devient-autre-chose/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/balades/le-canal-de-l-ourcq-a-velo-a-la-lisiere-de-paris-la-ou-la-ville-devient-autre-chose/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-03-30</published>
+    <updated>2026-03-30</updated>
     <summary>Du bassin de la Villette jusqu'à Bobigny, le canal de l'Ourcq à vélo est bien plus qu'une balade plate le long de l'eau. C'est une traversée de Paris vers ce qu'elle devient quand elle arrête de faire semblant — street art monumental, entrepôts reconvertis, péniches-restaurants, et cette question qui revient en pédalant : est-ce qu'on est encore à Paris ?</summary>
+  </entry>
+  <entry>
+    <title>La coulée verte et le viaduc des Arts à vélo : de Bastille à Vincennes par les toits</title>
+    <link href="https://location-velo-paris.com/itineraires/la-coulee-verte-et-le-viaduc-des-arts-a-velo-de-bastille-a-vincennes-par-les-toits/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/itineraires/la-coulee-verte-et-le-viaduc-des-arts-a-velo-de-bastille-a-vincennes-par-les-toits/</id>
+    <published>2026-03-24</published>
+    <updated>2026-03-24</updated>
+    <summary>La Promenade Plantée — coulée verte sur l'ancienne voie ferrée de Vincennes — est l'un des secrets les mieux gardés de Paris Est. Julien M. guide les cyclistes de la Bastille jusqu'au bois de Vincennes en passant par les ateliers d'artisans du viaduc des Arts. Conseils pratiques sur les portions à pousser, la jonction avec le bois et le retour en RER.</summary>
   </entry>
   <entry>
     <title>Paris à vélo la nuit : l'expérience de la ville lumière autrement</title>
     <link href="https://location-velo-paris.com/entre-amis/paris-a-velo-la-nuit-l-experience-de-la-ville-lumiere-autrement/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/entre-amis/paris-a-velo-la-nuit-l-experience-de-la-ville-lumiere-autrement/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-03-23</published>
+    <updated>2026-03-23</updated>
     <summary>Paris à vélo la nuit, c'est une autre ville : les ponts illuminés, la Seine miroir, le Marais qui vit encore à 22h. Samir avait eu l'idée un soir d'été — partir à 21h avec des vélos et faire les ponts. On a tous levé les yeux au ciel. Et puis on y est allés. Ce guide pratique couvre les meilleurs créneaux, les équipements obligatoires, les ponts incontournables et les pièges à éviter.</summary>
+  </entry>
+  <entry>
+    <title>Paris à vélo entre amis le soir : 4 itinéraires pour une soirée qui commence sur deux roues</title>
+    <link href="https://location-velo-paris.com/entre-amis/paris-a-velo-entre-amis-le-soir-4-itineraires-pour-une-soiree-qui-commence-sur-deux-roues/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/entre-amis/paris-a-velo-entre-amis-le-soir-4-itineraires-pour-une-soiree-qui-commence-sur-deux-roues/</id>
+    <published>2026-03-17</published>
+    <updated>2026-03-17</updated>
+    <summary>Pas besoin de voiture ni de métro bondé pour commencer une soirée à Paris — le vélo, c'est une autre façon de s'approprier la ville. Julien M. propose 4 itinéraires soirée testés : Bastille-Oberkampf, Canal Saint-Martin, Pigalle-Montmartre et Châtelet-Saint-Germain. Avec tous les conseils sur la location, la sécurité nocturne et les meilleures haltes.</summary>
   </entry>
   <entry>
     <title>Combien coûte vraiment une journée de location à Paris ? Le vrai budget</title>
     <link href="https://location-velo-paris.com/bons-plans/combien-coute-vraiment-une-journee-de-location-a-paris-le-vrai-budget/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/bons-plans/combien-coute-vraiment-une-journee-de-location-a-paris-le-vrai-budget/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-03-16</published>
+    <updated>2026-03-16</updated>
     <summary>Location, caution, équipements, assurance, Vélib' vs loueur… Camille R. détaille tous les coûts réels d'une journée à vélo à Paris pour 2025-2026, sans langue de bois. Budget complet poste par poste et astuces pour payer moins cher.</summary>
   </entry>
   <entry>
-    <title>Le Marais à vélo : ruelles pavées, places cachées et bonnes adresses — guide de 2h</title>
-    <link href="https://location-velo-paris.com/itineraires/le-marais-a-velo-ruelles-pavees-places-cachees-et-bonnes-adresses-guide-de-2h/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/itineraires/le-marais-a-velo-ruelles-pavees-places-cachees-et-bonnes-adresses-guide-de-2h/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
-    <summary>Un samedi matin, deux vélos loués 13 € chacun, et le Marais dans toute sa splendeur : pavés, Place des Vosges, falafels chauds et café honnête. Camille R. vous donne son guide de 2h sans langue de bois — avec les vraies adresses, les vrais tarifs, et les coins à éviter.</summary>
+    <title>Traverser le bois de Boulogne en famille : le circuit tranquille que personne ne connaît</title>
+    <link href="https://location-velo-paris.com/en-famille/traverser-le-bois-de-boulogne-en-famille-le-circuit-tranquille-que-personne-ne-connait/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/en-famille/traverser-le-bois-de-boulogne-en-famille-le-circuit-tranquille-que-personne-ne-connait/</id>
+    <published>2026-03-10</published>
+    <updated>2026-03-10</updated>
+    <summary>Le bois de Boulogne intimide souvent les familles, mais avec le bon circuit de 8 km, c'est l'une des meilleures sorties vélo de Paris avec des enfants. Lac inférieur, pelouses de pique-nique, Jardin d'acclimatation : voici le tracé complet avec tous les conseils pratiques pour une journée réussie dès 5 ans.</summary>
   </entry>
   <entry>
     <title>Montmartre, Belleville, Ménilmontant : le Paris populaire et créatif à vélo</title>
     <link href="https://location-velo-paris.com/itineraires/montmartre-belleville-menilmontant-le-paris-populaire-et-creatif-a-velo/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/itineraires/montmartre-belleville-menilmontant-le-paris-populaire-et-creatif-a-velo/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-03-09</published>
+    <updated>2026-03-09</updated>
     <summary>Montmartre, Belleville, Ménilmontant : trois quartiers populaires et créatifs à explorer en une demi-journée de vélo. Piaf, les Communards, les ateliers d'artistes, le Père-Lachaise — un itinéraire de 9 km avec du dénivelé, du caractère, et des adresses concrètes.</summary>
+  </entry>
+  <entry>
+    <title>Paris à vélo sous la pluie : le guide honnête pour ne pas rentrer trempé</title>
+    <link href="https://location-velo-paris.com/bons-plans/paris-a-velo-sous-la-pluie-le-guide-honnete-pour-ne-pas-rentrer-trempe/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/bons-plans/paris-a-velo-sous-la-pluie-le-guide-honnete-pour-ne-pas-rentrer-trempe/</id>
+    <published>2026-03-03</published>
+    <updated>2026-03-03</updated>
+    <summary>La pluie ne doit pas ruiner une sortie vélo à Paris — à condition de savoir s'équiper et de connaître les bons itinéraires. Henri D. partage son guide honnête : équipement minimum, passages couverts stratégiques et cafés où s'abriter quand l'averse arrive. Avec les bons réflexes, Paris sous la pluie a même un charme particulier.</summary>
+  </entry>
+  <entry>
+    <title>Le Marais à vélo : ruelles pavées, places cachées et bonnes adresses — guide de 2h</title>
+    <link href="https://location-velo-paris.com/itineraires/le-marais-a-velo-ruelles-pavees-places-cachees-et-bonnes-adresses-guide-de-2h/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/itineraires/le-marais-a-velo-ruelles-pavees-places-cachees-et-bonnes-adresses-guide-de-2h/</id>
+    <published>2026-03-02</published>
+    <updated>2026-03-02</updated>
+    <summary>Un samedi matin, deux vélos loués 13 € chacun, et le Marais dans toute sa splendeur : pavés, Place des Vosges, falafels chauds et café honnête. Camille R. vous donne son guide de 2h sans langue de bois — avec les vraies adresses, les vrais tarifs, et les coins à éviter.</summary>
+  </entry>
+  <entry>
+    <title>Le Petit Ceinture à vélo : l'ancienne voie ferrée qui traverse Paris sans bruit</title>
+    <link href="https://location-velo-paris.com/itineraires/le-petit-ceinture-a-velo-l-ancienne-voie-ferree-qui-traverse-paris-sans-bruit/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/itineraires/le-petit-ceinture-a-velo-l-ancienne-voie-ferree-qui-traverse-paris-sans-bruit/</id>
+    <published>2026-02-24</published>
+    <updated>2026-02-24</updated>
+    <summary>La Petite Ceinture est l'une des plus belles surprises à vélo à Paris : une ancienne voie ferrée du XIXe siècle, aujourd'hui végétalisée et partiellement ouverte au public. Entre rails envahis de mauvaises herbes, tunnels tagués et vues sur les toits, c'est un Paris secret que peu de gens connaissent. Guide complet des tronçons accessibles et conseils pratiques pour ne pas se perdre.</summary>
   </entry>
   <entry>
     <title>Un matin de brume sur les quais : balade à vélo quand Paris est encore endormi</title>
     <link href="https://location-velo-paris.com/balades/un-matin-de-brume-sur-les-quais-balade-a-velo-quand-paris-est-encore-endormi/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/balades/un-matin-de-brume-sur-les-quais-balade-a-velo-quand-paris-est-encore-endormi/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-02-23</published>
+    <updated>2026-02-23</updated>
     <summary>Paris à 7h du matin, c'est une autre ville. Brume sur les quais, livreurs au travail, lumière rasante sur la Seine — une balade à vélo dans les heures calmes révèle un Paris qu'on ne soupçonne pas. Avec les bonnes adresses pour le café et l'itinéraire exact.</summary>
   </entry>
   <entry>
     <title>Balade à vélo avec des enfants : les 5 erreurs classiques des parents (et comment les éviter)</title>
     <link href="https://location-velo-paris.com/en-famille/balade-a-velo-avec-des-enfants-les-5-erreurs-classiques-des-parents-et-comment-les-eviter/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/en-famille/balade-a-velo-avec-des-enfants-les-5-erreurs-classiques-des-parents-et-comment-les-eviter/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
+    <published>2026-02-17</published>
+    <updated>2026-02-17</updated>
     <summary>Balade à vélo avec des enfants à Paris : on rêve tous de la sortie parfaite, mais les pièges sont nombreux. Distance surestimée, oubli de goûter, itinéraire trop chargé — Camille R. passe en revue les 5 erreurs classiques et donne les solutions concrètes pour que ça roule vraiment.</summary>
-  </entry>
-  <entry>
-    <title>Sortie vélo entre amis à Paris : comment organiser une balade qui ne finit pas en dispute</title>
-    <link href="https://location-velo-paris.com/entre-amis/sortie-velo-entre-amis-a-paris-comment-organiser-une-balade-qui-ne-finit-pas-en-dispute/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/entre-amis/sortie-velo-entre-amis-a-paris-comment-organiser-une-balade-qui-ne-finit-pas-en-dispute/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
-    <summary>Organiser une sortie vélo entre amis à Paris sans que ça vire au chaos, c'est tout un art. Point de départ, niveaux disparates, crevaisons imprévues, apps utiles et terrasse pour finir : voici tout ce qu'on a appris à la dure pour que la balade reste un bon souvenir.</summary>
-  </entry>
-  <entry>
-    <title>Vélo en famille à Paris : les 6 règles de sécurité que tout parent doit connaître</title>
-    <link href="https://location-velo-paris.com/en-famille/velo-en-famille-a-paris-les-6-regles-de-securite-que-tout-parent-doit-connaitre/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/en-famille/velo-en-famille-a-paris-les-6-regles-de-securite-que-tout-parent-doit-connaitre/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
-    <summary>Partir à vélo dans Paris avec ses enfants, ça se prépare. Casque obligatoire, siège homologué, pistes sécurisées, vitesse raisonnée : voici les 6 règles essentielles que chaque parent doit connaître avant de louer un vélo en famille. Sans catastrophisme, avec des conseils concrets et vérifiés.</summary>
-  </entry>
-  <entry>
-    <title>Ce que personne ne te dit avant de louer un vélo à Paris — et qu'on aurait aimé savoir</title>
-    <link href="https://location-velo-paris.com/bons-plans/ce-que-personne-ne-te-dit-avant-de-louer-un-velo-a-paris-et-qu-on-aurait-aime-savoir/" rel="alternate" type="text/html"/>
-    <id>https://location-velo-paris.com/bons-plans/ce-que-personne-ne-te-dit-avant-de-louer-un-velo-a-paris-et-qu-on-aurait-aime-savoir/</id>
-    <published>2026-04-11</published>
-    <updated>2026-04-11</updated>
-    <summary>Pavés glissants, rafales sur les ponts, cautions qui débitent sans prévenir... Camille R. liste tout ce qu'on aurait aimé savoir avant de louer un vélo à Paris pour la première fois. Un guide honnête, sans langue de bois.</summary>
   </entry>
   <entry>
     <title>Les questions à poser à votre loueur avant de partir : le checklist complet</title>
@@ -157,16 +133,40 @@
     <title>De la Défense à Nation : traverser Paris d'ouest en est à vélo — le compte-rendu complet</title>
     <link href="https://location-velo-paris.com/balades/de-la-defense-a-nation-traverser-paris-d-ouest-en-est-a-velo-le-compte-rendu-complet/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/balades/de-la-defense-a-nation-traverser-paris-d-ouest-en-est-a-velo-le-compte-rendu-complet/</id>
-    <published>2026-02-15</published>
-    <updated>2026-02-15</updated>
+    <published>2026-02-12</published>
+    <updated>2026-02-12</updated>
     <summary>Partir de la Grande Arche de la Défense à 8h du matin et arriver place de la Nation 3h30 plus tard, après 23 kilomètres à travers le cœur de Paris : voici le compte-rendu complet de cette traversée d'ouest en est à vélo, du brouillard matinal sur les tours aux pavés du faubourg Saint-Antoine.</summary>
+  </entry>
+  <entry>
+    <title>Sortie vélo entre amis à Paris : comment organiser une balade qui ne finit pas en dispute</title>
+    <link href="https://location-velo-paris.com/entre-amis/sortie-velo-entre-amis-a-paris-comment-organiser-une-balade-qui-ne-finit-pas-en-dispute/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/entre-amis/sortie-velo-entre-amis-a-paris-comment-organiser-une-balade-qui-ne-finit-pas-en-dispute/</id>
+    <published>2026-02-11</published>
+    <updated>2026-02-11</updated>
+    <summary>Organiser une sortie vélo entre amis à Paris sans que ça vire au chaos, c'est tout un art. Point de départ, niveaux disparates, crevaisons imprévues, apps utiles et terrasse pour finir : voici tout ce qu'on a appris à la dure pour que la balade reste un bon souvenir.</summary>
   </entry>
   <entry>
     <title>Louer un vélo à Paris sans stress : les 5 étapes d'une location réussie</title>
     <link href="https://location-velo-paris.com/bons-plans/louer-un-velo-a-paris-sans-stress-les-5-etapes-d-une-location-reussie/" rel="alternate" type="text/html"/>
     <id>https://location-velo-paris.com/bons-plans/louer-un-velo-a-paris-sans-stress-les-5-etapes-d-une-location-reussie/</id>
+    <published>2026-02-10</published>
+    <updated>2026-02-10</updated>
+    <summary>Pièce d'identité oubliée, état des lieux bâclé, retour en retard... Les galères de location de vélo à Paris, j'en ai connu quelques-unes. Voici mon guide en 5 étapes pour louer sans accroc, du moment de la réservation jusqu'au retour du vélo.</summary>
+  </entry>
+  <entry>
+    <title>Premier vélo cargo : 7 choses à vérifier avant de partir avec vos enfants</title>
+    <link href="https://location-velo-paris.com/en-famille/premier-velo-cargo-7-choses-a-verifier-avant-de-partir-avec-vos-enfants/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/en-famille/premier-velo-cargo-7-choses-a-verifier-avant-de-partir-avec-vos-enfants/</id>
     <published>2026-02-09</published>
     <updated>2026-02-09</updated>
-    <summary>Pièce d'identité oubliée, état des lieux bâclé, retour en retard... Les galères de location de vélo à Paris, j'en ai connu quelques-unes. Voici mon guide en 5 étapes pour louer sans accroc, du moment de la réservation jusqu'au retour du vélo.</summary>
+    <summary>Avant de prendre le guidon d'un vélo cargo avec des enfants à bord, dix minutes de vérification peuvent faire toute la différence. Henri D. passe en revue les 7 points essentiels à contrôler au moment de récupérer votre location — de la ceinture de sécurité aux documents à emporter.</summary>
+  </entry>
+  <entry>
+    <title>Vélo en famille à Paris : les 6 règles de sécurité que tout parent doit connaître</title>
+    <link href="https://location-velo-paris.com/en-famille/velo-en-famille-a-paris-les-6-regles-de-securite-que-tout-parent-doit-connaitre/" rel="alternate" type="text/html"/>
+    <id>https://location-velo-paris.com/en-famille/velo-en-famille-a-paris-les-6-regles-de-securite-que-tout-parent-doit-connaitre/</id>
+    <published>2026-02-04</published>
+    <updated>2026-02-04</updated>
+    <summary>Partir à vélo dans Paris avec ses enfants, ça se prépare. Casque obligatoire, siège homologué, pistes sécurisées, vitesse raisonnée : voici les 6 règles essentielles que chaque parent doit connaître avant de louer un vélo en famille. Sans catastrophisme, avec des conseils concrets et vérifiés.</summary>
   </entry>
 </feed>
